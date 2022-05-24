@@ -19,9 +19,9 @@ Pronto, agora o sistema está pronto para ser executado
 Rote os comandos
 ``
  php artisan c:saveBidPriceOnDataBase
-
 ``
 - Esse comando salvará os dados de preço na base de dados.
+
 ``
 php artisan c:checkAvgBigPrice
 ``
